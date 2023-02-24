@@ -1,7 +1,12 @@
 # CRISPR-Application-Poster
 
 🧬 Academia Sinica, Institute of Molecular Bioloty, System Biology Lab 
+
 📍 Taipei, Taiwan
+
+👨‍🔬 PI: Jun-Yi, Leu
+
+**🌟 2019 Best Poster of Summer Internship Award** 
 
 ## Tunable Transcription Factor Based on CRISPR to Repress Hsp90
 
